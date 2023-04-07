@@ -1,6 +1,6 @@
-# BO0000 _Book name_
+# BO0000 _དེབ་མིང་།_
 
-- Data collector: @username
-- PR reviewer: @username
-- Estimated time: 0:00
-- Time taken: 0:00
+- རྒྱུ་ཆ་མཁོ་སྒྲུབ་པ།: @username
+- བསྐྱར་ཞིབ་མཁན།: @username
+- མཁོ་སྒྲུབ་ཚོད་དཔག་དུས་ཡུན།: 0:00
+- མཁོ་སྒྲུབ་དུས་ཡུན།: 0:00
